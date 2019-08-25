@@ -1,0 +1,12 @@
+{
+  "id": "runrun",
+  "name": "RunRun.it",
+  "version": "1.0.0",
+  "description": "RunRun.it",
+  "main": "index.js",
+  "author": "Marco Aurélio Prado <marco.vidoca@enext.com.br>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://runrun.it/"
+  }
+}
